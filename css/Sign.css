@@ -1,0 +1,291 @@
+#logo {
+    margin-left:840px;
+}
+
+#Member {
+    margin-left:890px;
+    margin-top:40px;
+}
+
+#ex1{
+    /* 타원형? 만든거 */
+margin-top:50px;
+margin-left:640px;
+position: absolute;
+width: 604px;
+height: 109px;
+top: 247px;
+left: 30px;
+
+
+background: rgb(213, 233, 248);
+border-radius: 54.5px;
+}
+
+#ex2 
+{
+ /* 아래 항목을 모두 필수로 입력해주세요. */
+color: rgb(71, 83, 208);
+font-family: Noto Sans KR;
+font-size: 20px;
+font-weight: 300;
+line-height: 70px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+#Checkboxfont1
+{
+color: rgb(55, 55, 55);
+font-family: NanumMyeongjo;
+font-size: 16px;
+font-weight: 600;
+line-height: 18px;
+margin-left:725px
+}
+
+#Checkboxfont2
+{
+    /* 만 14세 이상입니다. 이용약관. 개인정보 수집 이용*/
+color: rgb(55, 55, 55);
+font-family: NanumMyeongjo;
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0px;
+margin-left:725px
+}
+
+#CheckboxfontRed1
+{
+    /* (필수) */
+color: rgb(219, 78, 78);
+font-family: NanumMyeongjo;
+font-size: 16px;
+font-weight: 600;
+line-height: 18px;
+letter-spacing: 0px;
+margin-left:875px;
+margin-top:-34px
+}
+
+#CheckboxfontRed2
+{
+    /* (필수) */
+color: rgb(219, 78, 78);
+font-family: NanumMyeongjo;
+font-size: 16px;
+font-weight: 600;
+line-height: 18px;
+letter-spacing: 0px;
+margin-left:860px;
+margin-top:-34px;
+}
+
+#CheckboxfontRed3
+{
+    /* (필수) */
+color: rgb(219, 78, 78);
+font-family: NanumMyeongjo;
+font-size: 16px;
+font-weight: 600;
+line-height: 18px;
+letter-spacing: 0px;
+margin-left:895px;
+margin-top:-34px; 
+}
+
+#checkbox1
+{
+position: absolute;
+width: 21px;
+height: 21px;
+top: 401px;
+left: 55px;
+box-sizing: border-box;
+margin-left:650px;
+margin-top:40px;
+}
+
+#checkbox2
+{
+position: absolute;
+width: 21px;
+height: 21px;
+top: 401px;
+left: 55px;
+box-sizing: border-box;
+margin-left:650px;
+margin-top:75px;
+}
+
+#checkbox3
+{
+position: absolute;
+width: 21px;
+height: 21px;
+top: 401px;
+left: 55px;
+box-sizing: border-box;
+margin-left:650px;
+margin-top:110px;
+}
+
+#checkbox4
+{
+position: absolute;
+width: 21px;
+height: 21px;
+top: 401px;
+left: 55px;
+box-sizing: border-box;
+margin-left:650px;
+margin-top:145px;
+}
+
+#inputText
+{
+    /* 직사각형 3 */
+position: absolute;
+width: 507px;
+height: 45px;
+top: 613px;
+left: 54px;
+margin-left:650px;
+margin-top:30px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+border-radius: 8px;
+}
+
+#inputText2
+{
+    /* 직사각형 3 */
+position: absolute;
+width: 507px;
+height: 45px;
+top: 613px;
+left: 54px;
+margin-left:650px;
+margin-top:120px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+border-radius: 8px;
+}
+
+#inputText3
+{
+    position: absolute;
+width: 507px;
+height: 45px;
+top: 613px;
+left: 54px;
+margin-left:650px;
+margin-top:210px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+border-radius: 8px;
+}
+
+#inputText4
+{
+    position: absolute;
+width: 507px;
+height: 45px;
+top: 613px;
+left: 54px;
+margin-left:650px;
+margin-top:295px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+border-radius: 8px;
+}
+
+#inputText5
+{
+    position: absolute;
+width: 507px;
+height: 45px;
+top: 613px;
+left: 54px;
+margin-left:650px;
+margin-top:385px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+border-radius: 8px;
+}
+
+#inputText6
+{
+    position: absolute;
+width: 507px;
+height: 45px;
+top: 613px;
+left: 54px;
+margin-left:650px;
+margin-top:470px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+border-radius: 8px;
+}
+
+#emailadr {
+    margin-left:695px;
+    margin-top:50px;
+}
+
+#id {
+    margin-left:695px;
+    margin-top:70px;
+}
+
+#password {
+    margin-left:695px;
+    margin-top:70px;
+}
+
+#password2 {
+    margin-left:695px;
+    margin-top:60px;
+}
+
+#name {
+    margin-left:695px;
+    margin-top:70px;
+}
+
+#nickname {
+    margin-left:695px;
+    margin-top:65px;
+}
+
+#loginbutton {
+    margin-left:749px;
+    margin-top:120px;
+    width:395px;
+    height:54px;
+}
+
+#doubleCheck {
+    position: absolute;
+    margin-left:1220px;
+    top: 745px;
+}

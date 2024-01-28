@@ -1,0 +1,338 @@
+#top
+{
+    width:1669px;
+    height:280px;
+}
+
+#middle
+{
+    width:1669px;
+    height:640px;
+}
+
+#left
+{
+    width:180px;
+    height:440px;
+    float:left;
+}
+
+#logo
+{
+    width: 180px;
+    height:150px;
+    margin-left:840px;
+}
+
+#font1
+{
+    /* 홈 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:880px;
+text-decoration: none;
+}
+
+#font2
+{
+    /* 소개 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#font3
+{
+    /* 쇼핑몰 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#font4
+{
+    margin-top:20px;
+    margin-left:30px;
+}
+
+#font5
+{
+    margin-left:30px;
+    margin-top:-10px;
+}
+
+#font6
+{
+    margin-top:-10px;
+    margin-left:45px;
+}
+
+#font7
+{
+    margin-top:-10px;
+    margin-left:50px;
+}
+
+#font8
+{
+    margin-top:-30px;
+    margin-left:300px;
+}
+
+#font9
+{
+    margin-top:-55px;
+    margin-left:550px;
+    color: rgb(121, 121, 121)
+}
+
+#font10
+{
+    margin-top:110px;
+    margin-left:300px;
+    text-align: center;
+}
+
+#font11
+{
+    margin-top:10px;
+    margin-left:300px;
+    text-align: center;
+}
+
+#font12
+{
+    margin-top:40px;
+    margin-left:300px;
+}
+
+#font13
+{
+    margin-top:40px;
+    margin-left:600px;
+}
+
+#font14
+{
+    margin-top:-26px;
+    margin-left:755px;
+}
+
+#font15
+{
+    margin-top:-26px;
+    margin-left:400px;
+}
+
+#font16
+{
+    margin-top:-60px;
+    margin-left:405px;
+}
+
+#font17
+{
+    margin-left:280px;
+}
+
+#font18
+{
+    margin-left:340px;
+    margin-top:-42px;
+}
+
+#font19
+{
+    margin-left:410px;
+    margin-top:-58px;
+}
+
+#font20
+{
+    margin-left:290px;
+    margin-top:20px;
+}
+
+#font21
+{
+    margin-left:350px;
+    margin-top:-43px;
+}
+#Search 
+{
+position: absolute;
+width: 890px;
+height: 51px;
+top: 215px;
+left: 490px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 3px solid rgb(177, 232, 140);
+}
+
+#Searchbutton
+{
+position: absolute;
+width: 146px;
+height: 41px;
+top: 221px;
+left: 1410px;
+}
+
+#usericon
+{
+position: absolute;
+height:50px;
+width:60px;
+left: 1415px;
+top:15px;
+}
+
+#basketicon
+{
+position: absolute;
+height:50px;
+width:60px;
+left: 1485px;
+top:18px;
+}
+
+#loginbutton
+{
+    /* 직사각형 2 */
+position: absolute;
+width: 136px;
+height: 38px;
+top: 25px;
+left: 1240px;
+}
+
+#nemo {
+position: absolute;
+width: 180px;
+height: 118px;
+margin-top: 230px;
+margin-top: 18px;
+box-sizing: border-box;
+
+
+background: rgba(143, 190, 156, 0.36);
+border: 0px solid rgb(0, 0, 0);
+}
+
+#nemotext{
+    font-size: 14px;
+    text-align: center;
+}
+
+#nemotext2 {
+    font-size: 14px;
+    text-align: center;
+}
+
+#hr{
+width: 600px;
+height: 0;
+margin-top: 223px;
+margin-left: -100px;
+color: rgb(121, 121, 121);
+transform: rotate(-90.00deg);
+}
+
+#inputPassword
+{
+position: absolute;
+width: 485px;
+height: 41px;
+margin-top: 50px;
+margin-left: 550px;
+box-sizing: border-box;
+
+
+
+background: rgb(242, 244, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+}
+
+#inputPassword2
+{
+position: absolute;
+width: 485px;
+height: 41px;
+margin-top: -45px;
+margin-left: 560px;
+box-sizing: border-box;
+
+
+
+background: rgb(242, 244, 255);
+border: 0.30000001192092896px solid rgb(0, 0, 0);
+}
+
+#button1
+{
+width: 100px;
+height: 35px;
+margin-top: 53px;
+margin-left: 1080px;
+}
+
+#button2
+{
+width: 100px;
+height: 35px;
+margin-top: 40px;
+margin-left: 290px;
+}
+
+#button3
+{
+width: 100px;
+height: 35px;
+margin-top: 50px;
+margin-left: 690px;
+}
+
+#button4
+{
+width: 150px;
+height: 55px;
+margin-top:-200px;
+margin-left:830px;
+}
+
+#center
+{
+    text-align: center;
+}
+
+#checkbox1
+{
+width:25px;
+height:25px;
+margin-top: 150px;
+margin-left: 540px;
+}
+
+#outicon{
+    width: 100px;
+    height:100px;
+    margin-top: -60px;
+    margin-left: 100px;
+}

@@ -1,0 +1,299 @@
+#logo {
+    margin-left:835px;
+}
+
+#top
+{
+    width:1669px;
+    height:230px;
+}
+
+#middle
+{
+    width:1669px;
+    height:750px;
+}
+
+#exmiddle
+{
+    width:1669px;
+    height:850px;
+}
+
+#low
+{
+    width:1669px;
+    height:20px;
+}
+
+#exlow
+{
+    width:1669px;
+    height:50px;
+}
+
+#font1
+{
+    /* 홈 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:895px;
+text-decoration: none;
+}
+
+#font2
+{
+    /* 소개 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#font3
+{
+    /* 쇼핑몰 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#nemo
+{
+position: absolute;
+width: 753px;
+height: 680px;
+top: 247px;
+left: 585px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.10000000149011612px solid rgb(138, 138, 138);
+}
+
+#font4 {
+    /* 일루컴 부품 설명 페이지에 오신것을 환영합니다! */
+color: rgb(53, 53, 53);
+letter-spacing: 0px;
+text-align: center;
+}
+
+#font5 {
+color: rgb(53, 53, 53);
+letter-spacing: 0px;
+margin-left:290px;
+margin-top:-70px;
+}
+
+#font6 {
+color: rgb(81, 95, 223);
+margin-left:290px;
+margin-top:-18px;
+text-decoration: none;
+}
+
+#font7 {
+color: rgb(53, 53, 53);
+letter-spacing: 0px;
+margin-left:290px;
+margin-top:-90px;
+}
+
+#font8 {
+color: rgb(81, 95, 223);
+margin-left:290px;
+margin-top:-18px;
+text-decoration: none;
+}
+
+#font9 {
+color: rgb(53, 53, 53);
+letter-spacing: 0px;
+margin-left:290px;
+margin-top:-60px;  
+}
+
+#font10 {
+color: rgb(81, 95, 223);
+margin-left:290px;
+margin-top:-18px;
+text-decoration: none;
+}
+
+#font11 {
+    color: rgb(53, 53, 53);
+    letter-spacing: 0px;
+    margin-left:290px;
+    margin-top:-60px;  
+    }
+    
+#font12 {
+    color: rgb(81, 95, 223);
+    margin-left:290px;
+    margin-top:-18px;
+    text-decoration: none;
+    }
+
+#font13 {
+    color: rgb(53, 53, 53);
+    letter-spacing: 0px;
+    margin-left:290px;
+    margin-top:-60px;  
+    }
+        
+#font14 {
+    color: rgb(81, 95, 223);
+    margin-left:290px;
+    margin-top:-18px;
+    text-decoration: none;
+    }
+
+#font15 {
+    /* ⓒ 2022 Create Project_IWS 일루컴 */
+width: 256px;
+height: 18px;
+margin-left:820px;
+
+color: rgb(53, 53, 53);
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0px;
+}
+
+#font16 {
+    /* ⓒ 2022 Create Project_IWS 일루컴 RAM . CPU . GPU . 메인 . 파워 */
+width: 256px;
+height: 18px;
+margin-left:815px;
+
+color: rgb(53, 53, 53);
+font-size: 16px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0px;
+}
+
+#hr {
+    width:1890px;
+    margin-top: -10px;
+}
+
+#ram {
+    width:80px;
+    height:80px;
+    margin-left:200px;
+}
+
+#exram {
+    width:100px;
+    height:100px;
+    margin-left:905px;
+    margin-top:30px;
+}
+
+#cpu {
+    width:130px;
+    height:130px;
+    margin-left:175px;
+}
+
+#excpu {
+    width: 130px;
+    height:130px;
+    margin-left:888px;
+    margin-top:30px;
+}
+
+#gpu {
+    width: 75px;
+    height:75px;
+    margin-left:200px;
+    margin-top:20px;
+}
+
+#exgpu {
+    width: 120px;
+    height:100px;
+    margin-left:890px;
+    margin-top:30px;
+}
+
+#power {
+    width: 75px;
+    height:75px;
+    margin-left:200px;
+    margin-top:20px;
+}
+
+#expower {
+    width: 110px;
+    height:100px;
+    margin-left:890px;
+    margin-top:30px;
+}
+
+#mainboard {
+    width: 75px;
+    height:75px;
+    margin-left:198px;
+    margin-top:20px;
+}
+
+#exmainboard {
+    width: 120px;
+    height:100px;
+    margin-left:890px;
+    margin-top:30px;
+}
+
+#exCenter
+{
+    margin-left: 250px;
+    font-size: 24px;
+    text-align: center;
+}
+
+#backButton{
+
+width: 395px;
+height: 54px;
+margin-top: -20px;
+margin-left: 760px;
+}
+
+#ShoppingButton{
+ 
+width: 395px;
+height: 54px;
+margin-top: 20px;
+margin-left: 760px;
+}
+
+#HomeButton{
+
+width: 395px;
+height: 54px;
+margin-top: -20px;
+margin-left: 760px;
+}
+
+#chunbong {
+    width: 300px;
+    height:300px;
+    margin-left:280px;
+}

@@ -1,0 +1,113 @@
+#logo {
+    margin-left:840px;
+}
+#font1
+{
+    /* 홈 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:900px;
+text-decoration: none;
+}
+
+#font2
+{
+    /* 소개 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#font3
+{
+    /* 쇼핑몰 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#ex1{
+    /* 네모 모양 */
+        width: 700px;
+        height: 410px;
+        background: white;
+        border: 0.30000001192092896px solid rgb(168, 168, 168);
+        padding: 28px;
+        margin-top:200px 20px;
+}
+
+#font1{
+    /* 아이디 */
+color: rgb(0, 0, 0);
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0px;
+}
+
+#button1{
+    /* 로그인 버튼 */
+    margin-left:110px;
+    margin-top:10px;
+    width:480px;
+    height:65px;
+}
+
+#idInput {
+    /* 아이디 입력칸 */
+    margin-left:15px;
+    height:20px;
+    width:360px;
+}
+
+#pwInput {
+    /* 비밀번호 입력칸 */
+    margin-left:2px;
+    height:20px;
+    width:360px;
+}
+
+#idImage {
+    /* 아이디 이미지 위치 */
+    width:40px;
+    height:40px;
+    margin-top:80px;
+    margin-left:110px;
+}
+
+#passImage{
+    /* 비밀번호 이미지 위치 */
+    width:40px;
+    height:40px;
+    margin-top:5px;
+    margin-left:110px;
+}
+
+#signup {
+    /* 회원가입 */
+    color: rgb(0, 0, 0);
+    margin-top:5px;
+    margin-left:110px;
+}
+
+#SearchIdpw {
+    /* 아이디 / 비밀번호 찾기 */
+    color: rgb(0, 0, 0);
+    margin-top:5px;
+    margin-left:10px;
+    
+}

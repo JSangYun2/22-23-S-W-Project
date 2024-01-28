@@ -1,0 +1,478 @@
+ul,li {
+	list-style: none;
+	padding : 0;
+}
+#top
+{
+    width:1600px;
+    height:280px;
+}
+
+#middle /* 카테고리 + 상품 슬라이드 ( screen2-?) */
+{
+    width:1600px;
+    height:600px;
+}
+#middle-2 /* 장바구니 + 상품목록*/
+{
+    width:1600px;
+    height:1010px; /* height 나중에 maxconten로 바꿔야 할듯? */
+}
+#contents
+{
+    width:1600px;
+    height:1710px;
+    float:left;
+}
+#right
+{
+    width: 250px;
+    height: 550px;
+    float: left;
+    box-sizing:border-box;
+    border:solid 0.5px black;
+}
+#left
+{
+    width:450px;
+    height:600px;
+    float:left;
+}
+
+.nav {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    top: 10px;
+    float: left;
+}
+
+.menu {
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.menu li 
+{
+    list-style : none;
+}
+
+.submenu {
+    background-color: aliceblue;
+
+}
+
+.submenu li {
+    display: none;
+}
+
+.menu > li:hover {
+    background-color: aqua;
+}
+
+.submenu > li:hover {
+    background-color: aqua;
+}
+
+.submenu > li:nth-of-type(1) {
+    padding-top : 10px;
+}
+
+.menu a {
+    text-decoration : none;
+}
+
+#bottom
+{
+    width:1600px;
+    height:300px;
+}
+
+#screen2
+{
+    width:1100px;    
+    height:1500px;
+    float:left;
+    background-color: #fafafa;
+    box-sizing: border-box;
+    border: 3px solid rgba(85, 15, 15, 0.144);
+    margin-right:40px;
+}
+#screen2-1
+{
+    width:500px;
+    height:450px;
+    border:5px black;
+    float: left;
+}
+#screen2-2
+{
+    width:550.5px;
+    height:500px;
+}
+#screen2-3
+{
+    width: 1000px;
+    height: 150px;
+    position:relative;
+    float:left;
+}
+#screen3-1
+{
+    width : 450px;
+    height : 540px;
+    float:left;
+}
+
+/*
+#screenKart
+{
+    width:250px;
+    height: 100px;
+    text-align:center;
+    line-height:80px;
+    box-sizing: border-box;
+    border-bottom:solid 2px black;
+} 
+*/
+#screenKartImage
+{
+    width: 250px;
+    height: 100px;
+    box-sizing: border-box;
+    border-bottom:solid 2px black;
+}
+#screenKartInfo
+{
+    width: 250px;
+    height: 107px;
+    box-sizing: border-box;
+    border-bottom:solid 0.5px black;
+}
+#screenKartInfo1
+{
+    width: 107px;
+    height: 107px;
+    float:left;
+}
+#screenKartInfo2
+{
+    width: 143px;
+    height: 107px;
+    float:left;
+}
+
+
+#screen3-2
+{
+    width : 1150px;
+    height : 1010px;
+    float: left;
+    background-color: #fafafa;
+    box-sizing: border-box;
+    border: 3px solid rgba(85, 15, 15, 0.144);
+}
+#screen3-2-1
+{
+    width : 1050px;
+    height: 60px;
+    margin:35px;  
+    background-color:#fafafa;
+    box-sizing: border-box;
+    border-bottom: 3px solid rgba(85, 15, 15, 0.144);
+}
+
+#screen3-2-2
+{
+    width : 1080px;
+    height : 40px;
+    margin: 10px auto;
+}
+#screen3-2-3
+{
+    width : 1100px;
+    height : 145px;
+    margin-left:35px;
+}
+#screenImg
+{
+    width : 150px;
+    height : 145px;
+    margin-left: 5px;
+    float:left;
+    margin : auto;      
+}
+#screenInfo
+{
+    width : 400px;
+    height : 150px; 
+    margin-left: 100px;
+    float:left;
+}
+#screenPrice
+{
+    width : 400px;
+    height : 150px;
+    float: left;    
+    line-height: 100px;
+}  
+
+
+
+/* 영역 */
+
+/*버튼 */
+#Searchbutton
+{
+position: absolute;
+width: 146px;
+height: 41px;
+top: 221px;
+left: 1410px;
+} 
+
+#loginbutton
+{
+    /* 직사각형 2 */
+position: absolute;
+width: 136px;
+height: 38px;
+top: 25px;
+left: 1240px;
+}
+
+#buybutton
+{
+    position: absolute;
+    width: 136px;
+    height: 38px;
+    top: 25px;
+    left: 10px;
+}
+
+#kartbutton
+{
+    position: absolute;
+    width: 136px;
+    height: 38px;
+    top: 25px;
+    left: 180px;
+}
+
+#explain
+{ /*설명 보러가기 버튼*/
+    position:absolute;
+    left : 730px;
+    top : 80px;        
+    float:right;
+    text-decoration:none;
+}
+
+#PDinsert
+{
+    position:absolute;
+    left: 1250px;
+}
+#PDupdate
+{
+    position:absolute;
+    left: 1350px;
+}
+#PDdelete
+{
+    position:absolute;
+    left: 1450px;
+}
+
+/*버튼 끝*/
+
+
+#logo
+{
+    width: 180px;
+    height:150px;
+    margin-left:840px;
+}
+
+#Search 
+{
+position: absolute;
+width: 890px;
+height: 51px;
+top: 215px;
+left: 490px;
+box-sizing: border-box;
+background: rgb(255, 255, 255);
+border: 3px solid rgb(177, 232, 140);
+}
+
+
+
+
+
+#usericon
+{
+position: absolute;
+height:50px;
+width:60px;
+left: 1415px;
+top:15px;
+}
+
+#basketicon
+{
+position: absolute;
+height:50px;
+width:60px;
+left: 1485px;
+top:18px;
+}
+
+
+/*h3 id */
+#font1
+{
+    /* 홈 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:880px;
+text-decoration: none;
+}
+
+#font2
+{
+    /* 소개 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#font3
+{
+    /* 쇼핑몰 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#ex1{
+    /* 네모 모양 */
+position: absolute;
+width: 511.5px;
+height: 467.5px;
+top: 309px;
+box-sizing: border-box;
+
+
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(168, 168, 168);
+}
+
+#ex2{
+    /* 네모 모양 */
+position: relative;
+width: 500px;
+height: 450px;
+box-sizing: border-box;
+background: rgb(255, 255, 255);
+border: 0.30000001192092896px solid rgb(168, 168, 168);
+float:right;
+}
+
+#exImage {
+    width: 500px;
+    height:450px;
+    margin-left:0px;
+    margin-top:0px;
+    border: 0.30000001192092896px solid rgb(168, 168, 168);
+    box-sizing: border-box;
+}
+
+#font4
+{
+    text-align: center;
+    color : rgb(234, 35, 35)
+}
+
+#font5
+{
+    /* 8nm / 부스트클럭: 1695MHz / 스트림 프로세서: 4864개 */
+    width:400px;
+    margin:auto;
+    margin-bottom:20px;
+    font-size:15px;
+}
+
+#font6
+{
+    width:400px;
+    margin:auto;
+    margin-bottom:20px;
+    font-size:14px;
+}
+
+
+#font9
+{
+    width:550px;
+    margin-left: 150px;
+    color : rgb(29, 77, 230);
+    font-size:15px;  
+    font-weight:1000;
+}
+#font10
+{
+    display:inline; 
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+#font11
+{
+    width:150px;
+    display:inline;
+    font-size:24px;
+    box-sizing: border-box;
+    border-radius :3px rgb(199, 167, 167);
+    margin-left:40px;
+
+}
+
+#font12
+{
+    display:inline;
+    font-size:24px;
+    border-radius:#fafafa;
+    margin-left:200px;
+    margin-right:200px;
+}
+
+#font-Kart
+{
+    text-align:center;
+    line-height:100px;
+}
+#LowPrice
+{
+    float: right;
+}
+
+
+
+
+  

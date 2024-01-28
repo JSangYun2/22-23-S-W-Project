@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
+ul,li {
+	list-style: none;
+	padding : 0;
+}
+
+#left
+{
+    width:400px;
+    height:350px;
+    float:left;
+    margin-right:10px;
+}
+
+.nav {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  top: 10px;
+  float: left;
+
+}
+
+.menu {
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.menu li 
+{
+  list-style : none;
+}
+
+.submenu {
+  background-color: aliceblue;
+
+}
+
+.submenu li {
+  display: none;
+}
+
+.menu > li:hover {
+  background-color: aqua;
+}
+
+.submenu > li:hover {
+  background-color: aqua;
+}
+
+.submenu > li:nth-of-type(1) {
+  padding-top : 10px;
+}
+
+.menu a {
+  text-decoration : none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100;
+    font-family: Nanum+Gothic;
+}
+div#side_left{
+  width :200px;
+  height :max-content;
+  float:left;
+  }
+
+#mid_content{
+    width:100%;
+    float:left;
+    margin:5px;
+    position:absolute;
+}  
+
+section {
+  padding-left: 220px;
+  padding-top: 20px;
+  padding-right:20px;
+  padding-bottom:20px;
+  padding:20px;
+}
+
+
+.swiper-container {
+  width : 57%;
+	height:420px;
+	border:none;
+	border-radius:7px;
+	box-shadow:0 0 20px #ccc inset;
+}
+.swiper-slide {
+	text-align:center;
+	display:flex; /* 내용을 중앙정렬 하기위해 flex 사용 */
+	align-items:center; /* 위아래 기준 중앙정렬 */
+	justify-content:center; /* 좌우 기준 중앙정렬 */
+}
+.swiper-slide img {
+	box-shadow:0 0 5px #555;
+	max-width:90%; /* 이미지 최대너비를 제한, 슬라이드에 이미지가 여러개가 보여질때 필요 */
+	/* 이 예제에서 필요해서 설정했습니다. 상황에따라 다를 수 있습니다. */
+}
+* {
+  box-sizing: border-box;
+}
+.button {
+  position: relative;
+  padding: 1em 1.5em;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  font-family: Raleway;
+  font-weight: bold;
+}
+.button.type3 {
+  color: #435a6b;
+}
+.button.type3.type3::after, .button.type3.type3::before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 20%;
+  height: 20%;
+  border: 2px solid;
+  -webkit-transition: all 0.6s ease;
+          transition: all 0.6s ease;
+  border-radius: 2px;
+}
+.button.type3.type3::after {
+  bottom: 0;
+  right: 0;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  border-bottom-color: #435a6b;
+  border-right-color: #435a6b;
+}
+.button.type3.type3::before {
+  top: 0;
+  left: 0;
+  border-bottom-color: transparent;
+  border-right-color: transparent;
+  border-top-color: #435a6b;
+  border-left-color: #435a6b;
+}
+.button.type3.type3:hover:after, .button.type3.type3:hover:before {
+  border-bottom-color: #435a6b;
+  border-right-color: #435a6b;
+  border-top-color: #435a6b;
+  border-left-color: #435a6b;
+  width: 100%;
+  height: 100%;
+}
+
+h2{
+    text-align:center;
+    font-weight : bold;
+    vertical-align: middle; 
+    font-size:30px; 
+    color: red;
+}
+h3{
+    text-align:center;
+    font-weight : bold;
+    color: black;
+    font-size : 14px;
+}
+img {margin: 0px auto;}
+
+.welcome-text {
+    padding: 5px 10px; 
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 28px;
+}
+
+#home_page {
+    text-align : center;
+}
+
+a:link{
+    color : black;
+}
+
+a:visited {color:black;}
+
+a:hover { color:black;}
+
+a:active{color:black;}
+
+.welcome-img {
+    width: 100%;
+    vertical-align: center;
+}
+
+a { text-decoration:none }
+
+
+

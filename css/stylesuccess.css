@@ -1,0 +1,145 @@
+#top
+{
+    width:1636px;
+    height:190px;
+}
+
+#middle
+{
+    width:1636px;
+    height:500px;
+}
+
+#bottom
+{
+    width:1636px;
+    height:100px;
+}
+
+#logo
+{
+    width: 180px;
+    height:150px;
+    margin-left:840px;
+}
+
+#font1
+{
+    /* 홈 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:880px;
+text-decoration: none;
+}
+
+#font2
+{
+    /* 소개 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#font3
+{
+    /* 쇼핑몰 */
+color: rgb(0, 0, 0);
+font-family: Noto Serif KR;
+font-size: 14px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0px;
+margin-left:10px;
+text-decoration: none;
+}
+
+#successicon
+{
+    width:100px;
+    height:100px;
+    margin-left:695px;
+    margin-top:80px;
+}
+
+#font4
+{
+/* 추춘봉 (asd90212) 님 회원 가입이 완료되었습니다! */
+position: absolute;
+width: 298px;
+height: 68px;
+margin-left:810px;
+margin-top:-100px;
+font-size: 24px;
+
+line-height: 34px;
+letter-spacing: 0px;
+text-align: center;
+color: rgb(255, 0, 0);
+}
+
+#font5
+{
+position: absolute;
+width: 350px;
+height: 68px;
+margin-left:790px;
+margin-top:-50px;
+
+font-size: 24px;
+line-height: 34px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+#font6
+{
+    /* 일루컴에서 제공하는 다양한 서비스를 경험해보세요! */
+position: absolute;
+width: 510px;
+height: 29px;
+margin-left:680px;
+margin-top:20px;
+
+
+color: rgb(143, 143, 143);
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+#font7
+{
+    position: absolute;
+width: 510px;
+height: 29px;
+margin-left:680px;
+margin-top:20px;
+
+
+color: rgb(51, 51, 51);
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+#loginbutton
+{
+position: absolute;
+width: 600.32px;
+height: 73.52px;
+top: 580px;
+left: 655px;
+}
